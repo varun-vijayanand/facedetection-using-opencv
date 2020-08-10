@@ -1,3 +1,5 @@
+#PROGRAM TO FACE DETECTION USING OPEN CV IN A PICTURE
+
 import cv2
 
 # Load the cascade
